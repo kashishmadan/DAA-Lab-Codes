@@ -30,6 +30,7 @@ void HeapSort(int arr[],int n)
         Heapify(arr,i,0);
     }
 }
+
 void main()
 {
     int n,i;
