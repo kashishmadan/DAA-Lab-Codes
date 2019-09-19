@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int n;
 int heap_size = 0;
 const int INF = 100000;
